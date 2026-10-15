@@ -1,0 +1,9 @@
+{
+  "hero": {"file":"hero.jpg","url":"https://www.sonypicturesanimation.com/sites/default/files/styles/max_2600_x_2600/public/2022-12/SPIDER-MAN%20ACROSS%20THE%20SPIDER-VERSE.jpg?itok=xQ-EQiGO","credit":"Sony Pictures Animation — arte promocional oficial"},
+  "miles": {"file":"miles.jpg","url":"https://www.superherohype.com/wp-content/uploads/sites/4/2023/05/SV2_BusShltr_TSR_MilesAction_02.jpg?w=702","credit":"Sony Pictures Animation — pôster oficial, via SuperHeroHype"},
+  "gwen": {"file":"gwen.jpg","url":"https://www.superherohype.com/wp-content/uploads/sites/4/2023/05/SV2_BusShltr_TSR_GwenAction_01.jpg?w=702","credit":"Sony Pictures Animation — pôster oficial, via SuperHeroHype"},
+  "miguel": {"file":"miguel.jpg","url":"https://www.superherohype.com/wp-content/uploads/sites/4/2023/05/SV2_BusShltr_TSR_Miguel_01.jpg?w=702","credit":"Sony Pictures Animation — pôster oficial, via SuperHeroHype"},
+  "hobie": {"file":"hobie.jpg","url":"https://www.superherohype.com/wp-content/uploads/sites/4/2023/05/SV2_BusShltr_TSR_Punk_02.jpg?w=702","credit":"Sony Pictures Animation — pôster oficial, via SuperHeroHype"},
+  "pavitr": {"file":"pavitr.jpg","url":"https://www.superherohype.com/wp-content/uploads/sites/4/2023/05/SV2_BusShltr_TSR_Pavitr_01.jpg?w=702","credit":"Sony Pictures Animation — pôster oficial, via SuperHeroHype"},
+  "peter": {"file":"peter.jpg","url":"https://www.superherohype.com/wp-content/uploads/sites/4/2023/05/SV2_BusShltr_TSR_PeterMayDay_02.jpg?w=702","credit":"Sony Pictures Animation — pôster oficial, via SuperHeroHype"}
+}
